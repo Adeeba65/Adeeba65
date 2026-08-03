@@ -1,12 +1,19 @@
-# Hi, I'm Adeeba 👋
+<div align="center">
 
-### AI & Generative AI Engineer | Aspiring Researcher
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Adeeba&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=AI/ML%20%7C%20Generative%20AI%20Engineer&descAlignY=65&descSize=20" width="100%"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Engineer;Generative+AI+Engineer;Aspiring+Researcher" alt="Typing SVG" />
+
+</div>
 
 ---
 
 ## 🧠 About Me
 
-I'm a BSCS student building practical, explainable AI systems — from trained deep learning models to full end-to-end applications. I care about models that don't just perform well, but can also explain *why* they made a decision. Alongside my degree, I've completed multiple remote data science/ML internships and industry job simulations, and I'm currently working toward a graduate research path in AI, with a focus on Explainable AI, deep learning, and generative AI systems.
+- 🎓 BSCS student building practical, explainable AI systems
+- 🧩 Focused on models that don't just perform well, but can also explain *why* they made a decision
+- 💼 Completed multiple remote data science/ML internships and industry job simulations
+- 🚀 Currently working toward a graduate research path in AI, with a focus on Explainable AI, deep learning, and generative AI
 
 ---
 
