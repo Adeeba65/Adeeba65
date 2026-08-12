@@ -2,12 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:1a1a2e,100:6c63ff&height=220&section=header&text=Adeeba%20Bibi&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=AI%20%26%20Generative%20AI%20Engineer&descAlignY=65&descSize=20&fontAlignY=35" width="100%"/>
 
-<!--
-  🖼️ Add your photo:
-  1. Upload your photo to this repo as: assets/profile.png
-  2. Replace the src below with: assets/profile.png
--->
-<img src="assets/profile.png" width="150" height="150" style="border-radius:50%;" alt="Adeeba Bibi"/>
+<img src="assets/profile.jpeg" width="150" height="150" style="border-radius:50%; object-fit:cover;" alt="Adeeba Bibi"/>
 
 <br/>
 
