@@ -37,3 +37,4 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
 ---
 ⭐️ From [Adeeba65](https://github.com/Adeeba65)
+   yeh mjy bkl acha nhai lg rha yar isko change kro aisay jaisay aik top professional ki trah kro mtlb tm imagekro k tm chahty tuhari profile sb sy best rhy ab dekho tm isko dark theme ma kro top pr meri picture ay phr ai and generative ai fir us k bd jaisay ffice card hota h na waisay jo gaay ma dala hota h us trah ka aik hilta hua card ay about section ma aur bht avha sa background ho aur best sii krny h aur mtech wali internship khtm ho gai h 10 august tk thi aur ma final year student h aur research ma interest mera lekin tm topic abhi na likho bs yehi mention kro k research pr kaam kr rhi sai dark theme professional si
